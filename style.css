@@ -1,0 +1,16 @@
+/*
+================
+Begenning of header
+================
+*/
+.header{
+
+}
+.top-social ul{
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+.top-social ul li{
+	display: inline-block;
+}
